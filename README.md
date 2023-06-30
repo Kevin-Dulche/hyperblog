@@ -8,5 +8,6 @@ Un blog increible para el curso de Git y Github de PLatzi
 * El verdadero amor por la buenas practicas
 * Trucos muy locos del profesor
 * Las personalidades multiples de Freddy
+* Creado por el Increible Kevin
 
 Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve a ver el curso
